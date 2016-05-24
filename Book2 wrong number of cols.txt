@@ -1,0 +1,13 @@
+id	name	L1	L2	L3
+id1	N1	id1
+id2	N2	id1	id2
+id3	N3	id1	id3
+id4	N4	id1	id4
+id5	N5	id1	id5
+id6	N6	id1	id2	id6
+id7	N7	id1	id2	id7
+id8	N8	id1	id3	id8
+id9	N9	id1	id4	id9
+id10	N10	id1	id5	id10
+id11	N11	id1	id5	id11
+id12	N12	id1	id5	id12

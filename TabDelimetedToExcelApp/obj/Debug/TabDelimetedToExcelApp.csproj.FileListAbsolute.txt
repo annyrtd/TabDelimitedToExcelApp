@@ -1,0 +1,16 @@
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\bin\Debug\TabDelimetedToExcelApp.exe.config
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\bin\Debug\TabDelimetedToExcelApp.exe
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\bin\Debug\TabDelimetedToExcelApp.pdb
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\bin\Debug\TabDelimitedToExcelLibrary.dll
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\bin\Debug\TabDelimitedToExcelLibrary.pdb
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp.csprojResolveAssemblyReference.cache
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\MainWindow.g.cs
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\App.g.cs
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp_MarkupCompile.cache
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp_MarkupCompile.lref
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\MainWindow.baml
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp.g.resources
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp.Properties.Resources.resources
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp.csproj.GenerateResource.Cache
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp.exe
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimetedToExcelApp\obj\Debug\TabDelimetedToExcelApp.pdb

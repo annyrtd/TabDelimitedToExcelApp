@@ -1,0 +1,5 @@
+c:\users\annako\documents\visual studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimitedToExcelLibrary\bin\Debug\TabDelimitedToExcelLibrary.dll
+c:\users\annako\documents\visual studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimitedToExcelLibrary\bin\Debug\TabDelimitedToExcelLibrary.pdb
+c:\users\annako\documents\visual studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimitedToExcelLibrary\obj\Debug\TabDelimitedToExcelLibrary.dll
+c:\users\annako\documents\visual studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimitedToExcelLibrary\obj\Debug\TabDelimitedToExcelLibrary.pdb
+C:\Users\annako\Documents\Visual Studio 2015\Projects\TabDelimitedToExcelLibrary\TabDelimitedToExcelLibrary\obj\Debug\TabDelimitedToExcelLibrary.csprojResolveAssemblyReference.cache

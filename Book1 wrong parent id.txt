@@ -1,0 +1,13 @@
+id	name	parent
+id1	N1
+id2	N2	id
+id3	N3	id1
+id4	N4	id1
+id5	N5	id1
+id6	N6	id2
+id7	N7	id2
+id8	N8	id3
+id9	N9	id4
+id10	N10	id5
+id11	N11	id5
+id12	N12	id5
